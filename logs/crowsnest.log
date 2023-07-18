@@ -302,3 +302,26 @@
 [07/05/23 02:47:36] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
 [07/05/23 02:47:36] crowsnest: Starting ustreamer with Device /dev/video0 ...
 [07/05/23 02:47:38] crowsnest: ... Done!
+[07/17/23 05:55:09] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[07/17/23 05:55:09] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[07/17/23 05:55:09] crowsnest: Prepare Startup ...
+[07/17/23 05:55:09] crowsnest: INFO: Checking Dependencys
+[07/17/23 05:55:10] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[07/17/23 05:55:10] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[07/17/23 05:55:10] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[07/17/23 05:55:10] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[07/17/23 05:55:10] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[07/17/23 05:55:10] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[07/17/23 05:55:10] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[07/17/23 05:55:10] crowsnest: INFO: Detect available Devices
+[07/17/23 05:55:10] crowsnest: INFO: Found 1 total available Device(s)
+[07/17/23 05:55:10] crowsnest: INFO: Found 1 available camera(s)
+[07/17/23 05:55:10] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[07/17/23 05:55:10] crowsnest: INFO: No usable CSI Devices found.
+[07/17/23 05:55:11] crowsnest: V4L2 Control: Device: [cam 1]
+[07/17/23 05:55:11] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[07/17/23 05:55:12] crowsnest: Try to start configured Cams / Services...
+[07/17/23 05:55:12] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[07/17/23 05:55:13] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[07/17/23 05:55:13] crowsnest: ERROR: Start of ustreamer [cam 1] failed!
+[07/17/23 05:55:14] crowsnest: ... Done!
