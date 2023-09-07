@@ -350,3 +350,28 @@
 [08/09/23 23:32:41] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
 [08/09/23 23:32:42] crowsnest: Starting ustreamer with Device /dev/video0 ...
 [08/09/23 23:32:43] crowsnest: ... Done!
+[09/04/23 00:14:11] crowsnest: Shutdown or Killed by User!
+[09/04/23 00:14:11] crowsnest: Please come again :)
+[09/04/23 00:14:11] crowsnest: Goodbye...
+[09/04/23 00:14:28] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[09/04/23 00:14:28] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[09/04/23 00:14:28] crowsnest: Prepare Startup ...
+[09/04/23 00:14:28] crowsnest: INFO: Checking Dependencys
+[09/04/23 00:14:28] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[09/04/23 00:14:28] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[09/04/23 00:14:28] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[09/04/23 00:14:28] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[09/04/23 00:14:29] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[09/04/23 00:14:29] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[09/04/23 00:14:29] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[09/04/23 00:14:29] crowsnest: INFO: Detect available Devices
+[09/04/23 00:14:29] crowsnest: INFO: Found 1 total available Device(s)
+[09/04/23 00:14:29] crowsnest: INFO: Found 1 available camera(s)
+[09/04/23 00:14:29] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[09/04/23 00:14:29] crowsnest: INFO: No usable CSI Devices found.
+[09/04/23 00:14:29] crowsnest: V4L2 Control: Device: [cam 1]
+[09/04/23 00:14:29] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[09/04/23 00:14:31] crowsnest: Try to start configured Cams / Services...
+[09/04/23 00:14:31] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[09/04/23 00:14:32] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[09/04/23 00:14:33] crowsnest: ... Done!
