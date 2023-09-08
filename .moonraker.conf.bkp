@@ -53,6 +53,12 @@ origin = https://github.com/mainsail-crew/sonar.git
 primary_branch = main
 managed_services = sonar
 
+[update_manager z_calibration]
+type = git_repo
+path = ~/klipper_z_calibration
+origin = https://github.com/protoloft/klipper_z_calibration.git
+managed_services = klipper
+
 [update_manager moonraker-obico]
 type = git_repo
 path = ~/moonraker-obico
@@ -62,10 +68,4 @@ requirements = requirements.txt
 install_script = install.sh
 managed_services = 
 	moonraker-obico
-
-[update_manager led_effect]
-type = git_repo
-path = ~/klipper-led_effect
-origin = https://github.com/julianschill/klipper-led_effect.git
-is_system_service = False
 
