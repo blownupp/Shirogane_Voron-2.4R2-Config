@@ -476,3 +476,104 @@
 [09/09/23 23:59:04] crowsnest: Starting ustreamer with Device /dev/video0 ...
 [09/09/23 23:59:04] crowsnest: ERROR: Start of ustreamer [cam 1] failed!
 [09/09/23 23:59:05] crowsnest: ... Done!
+[09/11/23 03:02:05] crowsnest: Shutdown or Killed by User!
+[09/11/23 03:02:05] crowsnest: Please come again :)
+[09/11/23 03:02:05] crowsnest: Goodbye...
+[09/11/23 03:02:25] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[09/11/23 03:02:26] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[09/11/23 03:02:26] crowsnest: Prepare Startup ...
+[09/11/23 03:02:26] crowsnest: INFO: Checking Dependencys
+[09/11/23 03:02:26] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[09/11/23 03:02:27] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[09/11/23 03:02:27] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[09/11/23 03:02:27] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[09/11/23 03:02:27] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[09/11/23 03:02:27] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[09/11/23 03:02:27] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[09/11/23 03:02:27] crowsnest: INFO: Detect available Devices
+[09/11/23 03:02:27] crowsnest: INFO: Found 1 total available Device(s)
+[09/11/23 03:02:27] crowsnest: INFO: Found 1 available camera(s)
+[09/11/23 03:02:27] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[09/11/23 03:02:27] crowsnest: INFO: No usable CSI Devices found.
+[09/11/23 03:02:28] crowsnest: V4L2 Control: Device: [cam 1]
+[09/11/23 03:02:28] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[09/11/23 03:02:29] crowsnest: Try to start configured Cams / Services...
+[09/11/23 03:02:29] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[09/11/23 03:02:30] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[09/11/23 03:02:30] crowsnest: ERROR: Start of ustreamer [cam 1] failed!
+[09/11/23 03:02:31] crowsnest: ... Done!
+[09/11/23 03:11:02] crowsnest: Shutdown or Killed by User!
+[09/11/23 03:11:02] crowsnest: Please come again :)
+[09/11/23 03:11:02] crowsnest: Goodbye...
+[09/11/23 03:11:21] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[09/11/23 03:11:21] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[09/11/23 03:11:21] crowsnest: Prepare Startup ...
+[09/11/23 03:11:21] crowsnest: INFO: Checking Dependencys
+[09/11/23 03:11:22] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[09/11/23 03:11:22] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[09/11/23 03:11:22] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[09/11/23 03:11:22] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[09/11/23 03:11:22] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[09/11/23 03:11:22] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[09/11/23 03:11:22] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[09/11/23 03:11:22] crowsnest: INFO: Detect available Devices
+[09/11/23 03:11:22] crowsnest: INFO: Found 1 total available Device(s)
+[09/11/23 03:11:22] crowsnest: INFO: Found 1 available camera(s)
+[09/11/23 03:11:22] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[09/11/23 03:11:23] crowsnest: INFO: No usable CSI Devices found.
+[09/11/23 03:11:23] crowsnest: V4L2 Control: Device: [cam 1]
+[09/11/23 03:11:23] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[09/11/23 03:11:24] crowsnest: Try to start configured Cams / Services...
+[09/11/23 03:11:25] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[09/11/23 03:11:26] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[09/11/23 03:11:26] crowsnest: ERROR: Start of ustreamer [cam 1] failed!
+[09/11/23 03:11:27] crowsnest: ... Done!
+[09/11/23 04:33:30] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[09/11/23 04:33:32] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[09/11/23 04:33:32] crowsnest: Prepare Startup ...
+[09/11/23 04:33:32] crowsnest: INFO: Checking Dependencys
+[09/11/23 04:33:32] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[09/11/23 04:33:32] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[09/11/23 04:33:32] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[09/11/23 04:33:32] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[09/11/23 04:33:32] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[09/11/23 04:33:32] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[09/11/23 04:33:32] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[09/11/23 04:33:32] crowsnest: INFO: Detect available Devices
+[09/11/23 04:33:32] crowsnest: INFO: Found 1 total available Device(s)
+[09/11/23 04:33:33] crowsnest: INFO: Found 1 available camera(s)
+[09/11/23 04:33:33] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[09/11/23 04:33:33] crowsnest: INFO: No usable CSI Devices found.
+[09/11/23 04:33:33] crowsnest: V4L2 Control: Device: [cam 1]
+[09/11/23 04:33:33] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[09/11/23 04:33:35] crowsnest: Try to start configured Cams / Services...
+[09/11/23 04:33:35] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[09/11/23 04:33:36] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[09/11/23 04:33:36] crowsnest: ERROR: Start of ustreamer [cam 1] failed!
+[09/11/23 04:33:37] crowsnest: ... Done!
+[09/12/23 01:17:51] crowsnest: Shutdown or Killed by User!
+[09/12/23 01:17:51] crowsnest: Please come again :)
+[09/12/23 01:17:51] crowsnest: Goodbye...
+[09/12/23 01:18:10] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[09/12/23 01:18:11] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[09/12/23 01:18:11] crowsnest: Prepare Startup ...
+[09/12/23 01:18:11] crowsnest: INFO: Checking Dependencys
+[09/12/23 01:18:11] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[09/12/23 01:18:11] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[09/12/23 01:18:11] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[09/12/23 01:18:11] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[09/12/23 01:18:11] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[09/12/23 01:18:11] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[09/12/23 01:18:11] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[09/12/23 01:18:11] crowsnest: INFO: Detect available Devices
+[09/12/23 01:18:12] crowsnest: INFO: Found 1 total available Device(s)
+[09/12/23 01:18:12] crowsnest: INFO: Found 1 available camera(s)
+[09/12/23 01:18:12] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[09/12/23 01:18:12] crowsnest: INFO: No usable CSI Devices found.
+[09/12/23 01:18:12] crowsnest: V4L2 Control: Device: [cam 1]
+[09/12/23 01:18:12] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[09/12/23 01:18:14] crowsnest: Try to start configured Cams / Services...
+[09/12/23 01:18:14] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[09/12/23 01:18:15] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[09/12/23 01:18:15] crowsnest: ERROR: Start of ustreamer [cam 1] failed!
+[09/12/23 01:18:16] crowsnest: ... Done!
