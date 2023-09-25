@@ -803,3 +803,53 @@
 [09/23/23 20:36:01] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
 [09/23/23 20:36:02] crowsnest: Starting ustreamer with Device /dev/video0 ...
 [09/23/23 20:36:03] crowsnest: ... Done!
+[09/24/23 04:52:37] crowsnest: Shutdown or Killed by User!
+[09/24/23 04:52:37] crowsnest: Please come again :)
+[09/24/23 04:52:37] crowsnest: Goodbye...
+[09/24/23 04:52:57] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[09/24/23 04:52:57] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[09/24/23 04:52:57] crowsnest: Prepare Startup ...
+[09/24/23 04:52:57] crowsnest: INFO: Checking Dependencys
+[09/24/23 04:52:57] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[09/24/23 04:52:57] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[09/24/23 04:52:57] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[09/24/23 04:52:57] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[09/24/23 04:52:57] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[09/24/23 04:52:57] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[09/24/23 04:52:57] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[09/24/23 04:52:57] crowsnest: INFO: Detect available Devices
+[09/24/23 04:52:58] crowsnest: INFO: Found 1 total available Device(s)
+[09/24/23 04:52:58] crowsnest: INFO: Found 1 available camera(s)
+[09/24/23 04:52:58] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[09/24/23 04:52:58] crowsnest: INFO: No usable CSI Devices found.
+[09/24/23 04:52:58] crowsnest: V4L2 Control: Device: [cam 1]
+[09/24/23 04:52:58] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[09/24/23 04:53:00] crowsnest: Try to start configured Cams / Services...
+[09/24/23 04:53:00] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[09/24/23 04:53:01] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[09/24/23 04:53:02] crowsnest: ... Done!
+[09/24/23 06:28:18] crowsnest: Shutdown or Killed by User!
+[09/24/23 06:28:18] crowsnest: Please come again :)
+[09/24/23 06:28:18] crowsnest: Goodbye...
+[09/24/23 06:28:37] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[09/24/23 06:28:37] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[09/24/23 06:28:37] crowsnest: Prepare Startup ...
+[09/24/23 06:28:38] crowsnest: INFO: Checking Dependencys
+[09/24/23 06:28:38] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[09/24/23 06:28:38] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[09/24/23 06:28:38] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[09/24/23 06:28:38] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[09/24/23 06:28:38] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[09/24/23 06:28:38] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[09/24/23 06:28:38] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[09/24/23 06:28:38] crowsnest: INFO: Detect available Devices
+[09/24/23 06:28:38] crowsnest: INFO: Found 1 total available Device(s)
+[09/24/23 06:28:38] crowsnest: INFO: Found 1 available camera(s)
+[09/24/23 06:28:38] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[09/24/23 06:28:38] crowsnest: INFO: No usable CSI Devices found.
+[09/24/23 06:28:39] crowsnest: V4L2 Control: Device: [cam 1]
+[09/24/23 06:28:39] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[09/24/23 06:28:40] crowsnest: Try to start configured Cams / Services...
+[09/24/23 06:28:41] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[09/24/23 06:28:41] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[09/24/23 06:28:43] crowsnest: ... Done!
