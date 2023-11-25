@@ -953,3 +953,158 @@
 [10/29/23 21:43:17] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
 [10/29/23 21:43:18] crowsnest: Starting ustreamer with Device /dev/video0 ...
 [10/29/23 21:43:19] crowsnest: ... Done!
+[11/23/23 16:11:31] crowsnest: Shutdown or Killed by User!
+[11/23/23 16:11:31] crowsnest: Please come again :)
+[11/23/23 16:11:31] crowsnest: Goodbye...
+[11/23/23 16:11:49] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/23/23 16:11:49] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/23/23 16:11:49] crowsnest: Prepare Startup ...
+[11/23/23 16:11:49] crowsnest: INFO: Checking Dependencys
+[11/23/23 16:11:49] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/23/23 16:11:49] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/23/23 16:11:49] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/23/23 16:11:49] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/23/23 16:11:50] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/23/23 16:11:50] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/23/23 16:11:50] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/23/23 16:11:50] crowsnest: INFO: Detect available Devices
+[11/23/23 16:11:50] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/23/23 16:11:55] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/23/23 16:11:55] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/23/23 16:11:55] crowsnest: Prepare Startup ...
+[11/23/23 16:11:55] crowsnest: INFO: Checking Dependencys
+[11/23/23 16:11:56] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/23/23 16:11:56] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/23/23 16:11:56] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/23/23 16:11:56] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/23/23 16:11:56] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/23/23 16:11:56] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/23/23 16:11:56] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/23/23 16:11:56] crowsnest: INFO: Detect available Devices
+[11/23/23 16:11:56] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/23/23 16:12:01] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/23/23 16:12:01] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/23/23 16:12:01] crowsnest: Prepare Startup ...
+[11/23/23 16:12:01] crowsnest: INFO: Checking Dependencys
+[11/23/23 16:12:02] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/23/23 16:12:02] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/23/23 16:12:02] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/23/23 16:12:02] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/23/23 16:12:02] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/23/23 16:12:02] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/23/23 16:12:02] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/23/23 16:12:02] crowsnest: INFO: Detect available Devices
+[11/23/23 16:12:02] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/24/23 05:59:38] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/24/23 05:59:39] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/24/23 05:59:39] crowsnest: Prepare Startup ...
+[11/24/23 05:59:39] crowsnest: INFO: Checking Dependencys
+[11/24/23 05:59:39] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/24/23 05:59:39] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/24/23 05:59:39] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/24/23 05:59:39] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/24/23 05:59:39] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/24/23 05:59:39] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/24/23 05:59:39] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/24/23 05:59:39] crowsnest: INFO: Detect available Devices
+[11/24/23 05:59:39] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/24/23 05:59:45] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/24/23 05:59:45] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/24/23 05:59:45] crowsnest: Prepare Startup ...
+[11/24/23 05:59:45] crowsnest: INFO: Checking Dependencys
+[11/24/23 05:59:45] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/24/23 05:59:45] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/24/23 05:59:45] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/24/23 05:59:45] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/24/23 05:59:45] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/24/23 05:59:45] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/24/23 05:59:45] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/24/23 05:59:45] crowsnest: INFO: Detect available Devices
+[11/24/23 05:59:45] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/24/23 05:59:51] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/24/23 05:59:51] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/24/23 05:59:51] crowsnest: Prepare Startup ...
+[11/24/23 05:59:51] crowsnest: INFO: Checking Dependencys
+[11/24/23 05:59:51] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/24/23 05:59:51] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/24/23 05:59:51] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/24/23 05:59:51] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/24/23 05:59:51] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/24/23 05:59:51] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/24/23 05:59:51] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/24/23 05:59:51] crowsnest: INFO: Detect available Devices
+[11/24/23 05:59:51] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/24/23 05:59:57] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/24/23 05:59:57] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/24/23 05:59:57] crowsnest: Prepare Startup ...
+[11/24/23 05:59:57] crowsnest: INFO: Checking Dependencys
+[11/24/23 05:59:57] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/24/23 05:59:57] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/24/23 05:59:57] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/24/23 05:59:57] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/24/23 05:59:57] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/24/23 05:59:57] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/24/23 05:59:57] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/24/23 05:59:57] crowsnest: INFO: Detect available Devices
+[11/24/23 05:59:57] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/24/23 06:00:03] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/24/23 06:00:03] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/24/23 06:00:03] crowsnest: Prepare Startup ...
+[11/24/23 06:00:03] crowsnest: INFO: Checking Dependencys
+[11/24/23 06:00:03] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/24/23 06:00:03] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/24/23 06:00:03] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/24/23 06:00:03] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/24/23 06:00:03] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/24/23 06:00:03] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/24/23 06:00:03] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/24/23 06:00:03] crowsnest: INFO: Detect available Devices
+[11/24/23 06:00:03] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/24/23 06:00:09] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/24/23 06:00:09] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/24/23 06:00:09] crowsnest: Prepare Startup ...
+[11/24/23 06:00:09] crowsnest: INFO: Checking Dependencys
+[11/24/23 06:00:09] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/24/23 06:00:09] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/24/23 06:00:09] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/24/23 06:00:09] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/24/23 06:00:09] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/24/23 06:00:09] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/24/23 06:00:09] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/24/23 06:00:09] crowsnest: INFO: Detect available Devices
+[11/24/23 06:00:09] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/24/23 06:00:15] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/24/23 06:00:15] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/24/23 06:00:15] crowsnest: Prepare Startup ...
+[11/24/23 06:00:15] crowsnest: INFO: Checking Dependencys
+[11/24/23 06:00:15] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/24/23 06:00:15] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/24/23 06:00:15] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/24/23 06:00:15] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/24/23 06:00:15] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/24/23 06:00:15] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/24/23 06:00:15] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/24/23 06:00:15] crowsnest: INFO: Detect available Devices
+[11/24/23 06:00:15] crowsnest: ERROR: No usable Devices Found. Stopping crowsnest.
+[11/24/23 12:09:33] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[11/24/23 12:09:33] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[11/24/23 12:09:33] crowsnest: Prepare Startup ...
+[11/24/23 12:09:33] crowsnest: INFO: Checking Dependencys
+[11/24/23 12:09:33] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[11/24/23 12:09:33] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[11/24/23 12:09:34] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[11/24/23 12:09:34] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[11/24/23 12:09:34] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[11/24/23 12:09:34] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[11/24/23 12:09:34] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[11/24/23 12:09:34] crowsnest: INFO: Detect available Devices
+[11/24/23 12:09:34] crowsnest: INFO: Found 1 total available Device(s)
+[11/24/23 12:09:34] crowsnest: INFO: Found 1 available camera(s)
+[11/24/23 12:09:34] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[11/24/23 12:09:34] crowsnest: INFO: No usable CSI Devices found.
+[11/24/23 12:09:34] crowsnest: V4L2 Control: Device: [cam 1]
+[11/24/23 12:09:34] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[11/24/23 12:09:36] crowsnest: Try to start configured Cams / Services...
+[11/24/23 12:09:36] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[11/24/23 12:09:37] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[11/24/23 12:09:38] crowsnest: ... Done!
