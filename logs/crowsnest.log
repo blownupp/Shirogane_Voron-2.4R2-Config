@@ -1130,3 +1130,30 @@
 [04/02/24 17:38:57] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
 [04/02/24 17:38:58] crowsnest: Starting ustreamer with Device /dev/video0 ...
 [04/02/24 17:38:59] crowsnest: ... Done!
+[06/07/24 01:34:50] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[06/07/24 01:34:51] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[06/07/24 01:34:51] crowsnest: Prepare Startup ...
+[06/07/24 01:34:51] crowsnest: INFO: Checking Dependencys
+[06/07/24 01:34:51] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[06/07/24 01:34:51] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[06/07/24 01:34:51] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[06/07/24 01:34:51] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[06/07/24 01:34:51] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[06/07/24 01:34:51] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[06/07/24 01:34:51] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[06/07/24 01:34:51] crowsnest: INFO: Detect available Devices
+[06/07/24 01:34:51] crowsnest: INFO: Found 1 total available Device(s)
+[06/07/24 01:34:52] crowsnest: INFO: Found 1 available camera(s)
+[06/07/24 01:34:52] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[06/07/24 01:34:52] crowsnest: INFO: No usable CSI Devices found.
+[06/07/24 01:34:52] crowsnest: V4L2 Control: Device: [cam 1]
+[06/07/24 01:34:52] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[06/07/24 01:34:53] crowsnest: V4L2 Control: Failed to set parameter: 'power_line_frequency=1' ...
+[06/07/24 01:34:53] crowsnest: V4L2 Control: Parameter 'exposure_auto_priority=0' not available for '/dev/video0'. Skipped.
+[06/07/24 01:34:53] crowsnest: V4L2 Control: Parameter 'exposure_auto=3' not available for '/dev/video0'. Skipped.
+[06/07/24 01:34:53] crowsnest: V4L2 Control: Parameter 'sharpness=200' not available for '/dev/video0'. Skipped.
+[06/07/24 01:34:53] crowsnest: V4L2 Control: Parameter 'white_balance_temperature_auto=1' not available for '/dev/video0'. Skipped.
+[06/07/24 01:34:54] crowsnest: Try to start configured Cams / Services...
+[06/07/24 01:34:54] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[06/07/24 01:34:55] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[06/07/24 01:34:56] crowsnest: ... Done!
