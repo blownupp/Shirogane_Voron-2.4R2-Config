@@ -1271,3 +1271,26 @@
 [04/17/25 14:34:38] crowsnest: Starting ustreamer with Device /dev/video0 ...
 [04/17/25 14:34:39] crowsnest: ERROR: Start of ustreamer [cam 1] failed!
 [04/17/25 14:34:40] crowsnest: ... Done!
+[04/26/25 08:45:34] crowsnest: crowsnest - A webcam Service for multiple Cams and Stream Services.
+[04/26/25 08:45:34] crowsnest: Version: v3.0.7-4-g0bdc1bc
+[04/26/25 08:45:34] crowsnest: Prepare Startup ...
+[04/26/25 08:45:34] crowsnest: INFO: Checking Dependencys
+[04/26/25 08:45:34] crowsnest: Dependency: 'crudini' found in /usr/bin/crudini.
+[04/26/25 08:45:35] crowsnest: Dependency: 'find' found in /usr/bin/find.
+[04/26/25 08:45:35] crowsnest: Dependency: 'logger' found in /usr/bin/logger.
+[04/26/25 08:45:35] crowsnest: Dependency: 'xargs' found in /usr/bin/xargs.
+[04/26/25 08:45:35] crowsnest: Dependency: 'ffmpeg' found in /usr/bin/ffmpeg.
+[04/26/25 08:45:35] crowsnest: Dependency: 'ustreamer' found in bin/ustreamer/ustreamer.
+[04/26/25 08:45:35] crowsnest: Dependency: 'rtsp-simple-server' found in bin/rtsp-simple-server/rtsp-simple-server.
+[04/26/25 08:45:35] crowsnest: INFO: Detect available Devices
+[04/26/25 08:45:35] crowsnest: INFO: Found 1 total available Device(s)
+[04/26/25 08:45:35] crowsnest: INFO: Found 1 available camera(s)
+[04/26/25 08:45:35] crowsnest: /dev/v4l/by-id/usb-046d_HD_Pro_Webcam_C920_1BCCE9AF-video-index0 -> /dev/video0
+[04/26/25 08:45:35] crowsnest: INFO: No usable CSI Devices found.
+[04/26/25 08:45:35] crowsnest: V4L2 Control: Device: [cam 1]
+[04/26/25 08:45:35] crowsnest: V4L2 Control: Options: focus_auto=0,power_line_frequency=1,exposure_auto_priority=0,exposure_auto=3,sharpness=200,white_balance_temperature_auto=1
+[04/26/25 08:45:37] crowsnest: Try to start configured Cams / Services...
+[04/26/25 08:45:37] crowsnest: INFO: Configuration of Section [cam 1] looks good. Continue...
+[04/26/25 08:45:38] crowsnest: Starting ustreamer with Device /dev/video0 ...
+[04/26/25 08:45:38] crowsnest: ERROR: Start of ustreamer [cam 1] failed!
+[04/26/25 08:45:39] crowsnest: ... Done!
